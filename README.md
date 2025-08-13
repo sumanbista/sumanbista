@@ -1,18 +1,4 @@
 
-<!--
-**sumanbista/sumanbista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Suman Bista! 👋
 
 <p align="left">
@@ -26,7 +12,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **Machine Learning/Software Engineer** based in **New Jersey**. I enjoy turning data into actionable insights and am always exploring new tools and techniques in the AI landscape.
 
-* 🔭 I’m currently working on a project that **Coming Soon!**.
+* 🔭 I’m currently working on a project with Google as a part of Break Through Tech AI Studio which focuses on building an AI and Machine Lesarning model to predict which viral youtube videos are likely to remain trending. 
 * 🌱 I’m currently learning about **Large Language Models (LLMs), Deep Learning**.
 * 👯 I’m open to collaborating on **AI/ML projects.**.
 * 📫 You can reach me via **bistasuman17@gmail.com** or my [LinkedIn profile](https://www.linkedin.com/in/sumanbista/).
