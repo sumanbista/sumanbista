@@ -12,7 +12,7 @@
 
 I'm a passionate **Machine Learning/Software Engineer** based in **New Jersey**. I enjoy turning data into actionable insights and am always exploring new tools and techniques in the AI landscape.
 
-* 🔭 I’m currently working on a project with Google as a part of Break Through Tech AI Studio which focuses on building an AI and Machine Lesarning model to predict which viral youtube videos are likely to remain trending. 
+* 🔭 I’m currently working on a project with Google as a part of Break Through Tech AI Studio which focuses on building an AI and Machine Learning model to predict which viral YouTube videos are likely to remain trending. 
 * 🌱 I’m currently learning about **Large Language Models (LLMs), Deep Learning**.
 * 👯 I’m open to collaborating on **AI/ML projects.**.
 * 📫 You can reach me via **bistasuman17@gmail.com** or my [LinkedIn profile](https://www.linkedin.com/in/sumanbista/).
