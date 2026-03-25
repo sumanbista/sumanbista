@@ -1,39 +1,55 @@
+# Hi, I'm Suman Bista 👋
 
-# Hi there, I'm Suman Bista! 👋
+Software engineer building **AI-powered** and **full-stack applications** with Python, TypeScript, React, and modern backend tools.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumanbista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+I'm especially interested in **LLM systems**, **RAG applications**, and building products that solve real user problems.
+
+[LinkedIn](https://www.linkedin.com/in/sumanbista/) • [Email](mailto:bistasuman17@gmail.com)
+
+---
+
+## What I'm Currently Working On
+
+- Building AI/ML systems through **Break Through Tech AI Studio** in collaboration with **Google**
+- Exploring **LLMs**, **RAG pipelines**, and **developer-facing AI tools**
+- Open to opportunities in **Software Engineering**, **AI Engineering**, and **ML Engineering**
+
+---
+
+## Featured Projects
+
+### LLM Experimentation Platform
+A developer-facing app for comparing LLM behavior through prompt testing and real-time parameter tuning.
+
+**Tech:** Python, Streamlit, Groq API  
 
 
-## 👨‍💻 About Me
+### CougarAI
+A RAG-powered application for context-aware question answering over university knowledge bases.
 
-I'm a passionate **Machine Learning/Software Engineer** based in **New Jersey**. I enjoy turning data into actionable insights and am always exploring new tools and techniques in the AI landscape.
+**Tech:** Python, React, Firebase, Pinecone  
 
-* 🔭 I’m currently working on a project with Google as a part of Break Through Tech AI Studio which focuses on building an AI and Machine Learning model to predict which viral YouTube videos are likely to remain trending. 
-* 🌱 I’m currently learning about **Large Language Models (LLMs), Deep Learning**.
-* 👯 I’m open to collaborating on **AI/ML projects.**.
-* 📫 You can reach me via **bistasuman17@gmail.com** or my [LinkedIn profile](https://www.linkedin.com/in/sumanbista/).
 
-## 🛠️ My Tech Stack
+### SmartPrep
+A full-stack exam preparation platform with authentication, role-based access, and scalable content delivery.
 
-Here are some of the technologies I work with:
+**Tech:** Next.js, TypeScript, Supabase  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+
+---
+
+## Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL, HTML, CSS  
+**Frameworks & Tools:** React, Next.js, Node.js, Express.js, Streamlit, Firebase, Supabase  
+**AI / ML:** LLMs, RAG, Scikit-learn, Pandas, NumPy, Prompt Engineering  
+**Developer Tools:** Git, GitHub, Docker, Linux, VS Code
+
+---
+
+## Let's Connect
+
+I'm always open to connecting about software engineering, AI, and interesting product ideas.
+
+- [LinkedIn](https://www.linkedin.com/in/sumanbista/)
+- [Email](mailto:bistasuman17@gmail.com)
