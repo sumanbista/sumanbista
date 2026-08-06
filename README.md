@@ -4,7 +4,7 @@ Software engineer building **AI-powered** and **full-stack applications** with P
 
 I'm especially interested in **LLM systems**, **RAG applications**, and building products that solve real user problems.
 
-[LinkedIn](https://www.linkedin.com/in/sumanbista/) • [Email](mailto:bistasuman17@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sumanbista/) • [Email](mailto:sumanbista.dev@gmail.com)
 
 ---
 
@@ -52,4 +52,4 @@ A full-stack exam preparation platform with authentication, role-based access, a
 I'm always open to connecting about software engineering, AI, and interesting product ideas.
 
 - [LinkedIn](https://www.linkedin.com/in/sumanbista/)
-- [Email](mailto:bistasuman17@gmail.com)
+- [Email](mailto:sumanbista.dev@gmail.com)
